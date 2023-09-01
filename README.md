@@ -1,4 +1,4 @@
-# Step4(2023-08-26) # 
+#### Step4(2023-08-26) https://github.com/next-step/android-tictactoe/pull/18
     * 틱택토(Hilt 마이그레이션)
         * [x] 이전 단계의 기능 요구사항을 모두 만족해야 한다.
         * [x] Hilt를 통해 의존성을 주입한다.
@@ -10,7 +10,7 @@
         * [x] ViewModel 에서 UseCase의 게임 모드에 따라서 틱택토 모드 변경
         * [x] TictactoeModule @Provides -> @Binds 수정
 
-# Step3(2023-08-18) #
+#### Step3(2023-08-18) https://github.com/next-step/android-tictactoe/pull/14
     * 틱택토(중급)
         * [x] 메뉴에서 중급를 선택하면 중급 모드로 전환한다.
         * [x] 앱을 시작하면 중급 모드로 시작한다.
@@ -28,7 +28,7 @@
         * [x] getGameResultFromSetMapPoint() 함수 역활 분리
         * [x] 대각선, 행, 열 다음 둘 곳 찾는 함수 통합
 
-# Step2(2023-08-14) #
+#### Step2(2023-08-14) https://github.com/next-step/android-tictactoe/pull/12
     * 틱택토(랜덤)
         * [x] 메뉴에서 2인을 선택하면 2인 모드로 전환한다.
         * [x] 메뉴에서 랜덤을 선택하면 랜덤 모드로 전환한다.
@@ -47,7 +47,7 @@
         * [x] Tictactoc 전략 인터페이스화 & DefaultTictactoc에 주입
         * [x] TictactocMap 초기화 부분 수정
 
-# Step1(2023-08-13) #
+#### Step1(2023-08-13) https://github.com/next-step/android-tictactoe/pull/11
     * 틱택토(2인)
         * [x] 앱을 시작하면 바로 틱택토 게임이 시작된다.
         * [x] X가 선수, O가 후수를 둔다.
