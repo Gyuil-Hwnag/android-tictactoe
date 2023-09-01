@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">android-tictactoe</string>
+    <string name="game_over">게임 종료</string>
+    <string name="wrong_click">다른 곳을 선택하세요.</string>
+    <string name="x_win">X 승리</string>
+    <string name="o_win">O 승리</string>
+    <string name="tie">무승부</string>
+    <string name="game_mode_two_player">2인 모드</string>
+    <string name="game_mode_random_player">랜덤 모드</string>
+    <string name="game_mode_ramdom_middle_player">중급 모드</string>
 </resources>
